@@ -7,7 +7,11 @@ Selamat datang di repository **Android-Fundamentals**! Repository ini dirancang 
 ### Part 1: Language (Kotlin) 💻
 Pelajari dasar-dasar Kotlin, bahasa pemrograman modern yang menjadi fondasi utama dalam pengembangan aplikasi Android. Di modul ini, Anda akan:
 - Mengenal sintaks dasar Kotlin
-- Memahami struktur aplikasi Android
+- Basic
+- OOP
+- Collection
+- Generic
+- Coroutine
 - Menulis kode Kotlin yang efisien dan efektif
 
 ### Part 2: Android Package 📦
