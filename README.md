@@ -9,8 +9,9 @@ Pelajari dasar-dasar Kotlin, bahasa pemrograman modern yang menjadi fondasi utam
 - Mengenal sintaks dasar Kotlin
 - Basic
 - OOP
-- Collection
 - Generic
+- Collection
+- Unit Test
 - Coroutine
 - Menulis kode Kotlin yang efisien dan efektif
 
